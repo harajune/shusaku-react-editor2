@@ -2,6 +2,7 @@
   "name": "shusaku-react-editor2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "shusaku-react-editor2",
   "dependencies": {
     "@ckeditor/ckeditor5-build-balloon": "^17.0.0",
     "@ckeditor/ckeditor5-react": "^2.1.0",
